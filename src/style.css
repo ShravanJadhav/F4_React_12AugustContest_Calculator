@@ -1,0 +1,78 @@
+ 
+
+* {
+  margin: auto;
+}
+
+.calculator {
+  width: 400px;
+  height: 400px;
+  top: 171px;
+  left: 452px;
+  border-radius: 30px;
+  margin-top: 100px;
+  box-shadow: -30px 0px 20px 0px blue, -30px 20px 100px 10px  #fb184e78;
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.cart {
+  width: 311px;
+  height: 304px;
+  top: 249px;
+  left: 541px;
+}
+.error {
+  text-align: center;
+  color: blue;
+}
+.success {
+  text-align: center;
+  font-size: large;
+  font-weight: 300;
+}
+
+.cart h1 {
+  width: 311px;
+  height: 44px;
+  top: 249px;
+  left: 541px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.cart input {
+  width: 290px;
+  height: 50px;
+  top: 322px;
+  left: 551px;
+  border: 2px #2b2b2b solid;
+  margin: 20px;
+  padding: 5px;
+}
+
+.cart .blockCal {
+  width: 286px;
+  height: 61px;
+  top: 492px;
+  left: 553px;
+
+  margin-left: 30px;
+}
+
+.blockCal button {
+  width: 61px;
+  height: 61px;
+  top: 492px;
+  left: 553px;
+
+  margin: 5px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
